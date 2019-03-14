@@ -6,5 +6,5 @@ An oscilloscope display channel expander that can display four channels signals 
 
 (2) the expander only needs a single dc power supply;
 
-(3) with self-check function (74161 is used to generate four digital signals as the circuit under test)
+(3) with self-check function (74161 is used to generate four digital signals as the circuit under test);
 
